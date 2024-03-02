@@ -1,0 +1,4 @@
+/Users/alexiastefan/Documents/facultate/3rd/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/GFXFramework.dir
+/Users/alexiastefan/Documents/facultate/3rd/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/new_target.dir
+/Users/alexiastefan/Documents/facultate/3rd/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexiastefan/Documents/facultate/3rd/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
